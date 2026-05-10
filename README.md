@@ -1,8 +1,10 @@
 # Color Palette Generator
 
+**[Live Demo →](https://mahtxx.github.io/color-palette-generator/)**
+
 A full-screen color palette generator with multiple harmony modes, lockable swatches, and instant clipboard export. Built with pure HTML, CSS, and JavaScript.
 
-![Color Palette Generator](https://img.shields.io/badge/HTML-CSS-JS-purple?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
+![Color Palette Generator](https://img.shields.io/badge/HTML-CSS-JS-purple?style=flat-square) ![Live](https://img.shields.io/badge/Live-GitHub%20Pages-brightgreen?style=flat-square) ![License](https://img.shields.io/badge/license-MIT-blue?style=flat-square)
 
 ---
 
